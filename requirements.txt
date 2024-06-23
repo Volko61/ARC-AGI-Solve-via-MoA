@@ -1,0 +1,7 @@
+openai
+fire
+loguru
+datasets
+typer
+rich
+matplotlib
